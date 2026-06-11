@@ -1,8 +1,8 @@
 ### 👨‍💻 Обо мне
-- Меня зовут Константин.
-- Я Junior Python Backend Developer.
-- Мне 30 лет.
-- Пишу бэкенд на Python: микросервисы и Telegram-боты.
+- 👋 Меня зовут Константин.
+- 🐍 Я Junior Python Backend Developer.
+- 🎂 Мне 30 лет.
+- 💻 Пишу бэкенд на Python: микросервисы и Telegram-боты.
 
 <div>
   <a href="https://t.me/NGC_2392_Gem">
