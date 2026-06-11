@@ -1,4 +1,5 @@
-### 👨‍💻 Обо мне
+<h2 align="center">👨‍💻 Обо мне</h2>
+
 - 👋 Меня зовут Константин.
 - 🐍 Я Junior Python Backend Developer.
 - 🎂 Мне 30 лет.
@@ -11,7 +12,10 @@
 </div>
 
 ---
-### 🛠 Технический стек
+
+<h2 align="center">🛠 Технический стек</h2>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -25,9 +29,11 @@
 ![uv](https://img.shields.io/badge/uv-000000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
-### 🚀 Мои проекты
+<h2 align="center">🚀 Мои проекты</h2>
 
 <div align="center">
 
@@ -76,9 +82,22 @@
 
 </div>
 
-### 📊 GitHub
+---
+
+<h2 align="center">📊 GitHub</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Konstantin-Sorokin&theme=radical&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Konstantin-Sorokin&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Sorokin&layout=compact&theme=radical&hide_border=true" width="350" alt="Top Languages" />
+</p>
+
+<h2 align="center">🧠 LeetCode</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/fIugegeheimen" alt="LeetCode Stats" />
 </p>
