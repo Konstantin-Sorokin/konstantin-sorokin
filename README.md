@@ -1,11 +1,16 @@
-# 👋 Я Константин
+### Обо мне
+- Меня зовут Константин.
+- Я Junior Python Backend Developer.
+- Мне 30 лет.
+- Пишу бэкенд на Python: микросервисы и Telegram-боты.
 
-**Junior Python Backend Developer**
-
-Мне 30 лет. Пишу бэкенд на Python: микросервисы и Telegram-боты.
+<div>
+  <a href="https://t.me/NGC_2392_Gem">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
 ---
-
 ### 🛠 Технический стек
 
 ![Python](https://img.shields.io/badge/Python-3+-3776AB?style=for-the-badge&logo=python&logoColor=white)
