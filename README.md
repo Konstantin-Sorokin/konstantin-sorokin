@@ -2,7 +2,6 @@
 
 - 👋 Меня зовут Константин.
 - 🐍 Я Junior Python Backend Developer.
-- 🎂 Мне 30 лет.
 - 💻 Пишу бэкенд на Python: микросервисы и Telegram-боты.
 
 <div>
