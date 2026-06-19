@@ -1,8 +1,8 @@
 <h2 align="center">👨‍💻 Обо мне</h2>
 
 - 👋 Меня зовут Константин.
-- 🐍 Я Junior Python Backend Developer.
-- 💻 Пишу бэкенд на Python: микросервисы и Telegram-боты.
+- 🐍 Разработчик Python
+- 💻 Пишу бэкенд: Telegram-боты, микросервисы
 
 <div>
   <a href="https://t.me/NGC_2392_Gem">
